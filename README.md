@@ -105,6 +105,7 @@ This should not bother you... I just wanted to explain how it works.
 
 # Big thanks to
 
+mariosemes <br />
 YouTube-DL <br />
 PrettyTables <br />
 BS4 aka BeautifulSoup4 <br />
