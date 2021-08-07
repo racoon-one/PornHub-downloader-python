@@ -1,11 +1,4 @@
-## deprecated deprecated deprecated deprecated
-
 # PornHub Downloader
-
-[![GitHub Issues Open](https://github-basic-badges.herokuapp.com/issues/mariosemes/PornHub-downloader-python.svg)]()
-
-If you feel like it, you can donate me a beer or two ;) Just for the troubles! <br />
-[DONATE BUTTON](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7MTJVTTQM9YQE&source=url)
 
 # Installation
 
@@ -16,7 +9,7 @@ Also, check if you have pip3 installed (apt install python3-pip). <br />
 ```bash
 1. $ apt install python3
 2. $ apt install python3-pip
-3. $ wget https://github.com/mariosemes/PornHub-downloader-python/archive/master.zip
+3. $ wget https://github.com/racoon-one/PornHub-downloader-python/archive/master.zip
 4. $ unzip master.zip
 5. $ cd PornHub-downloader-python-master
 6. $ pip3 install -r requirements.txt
