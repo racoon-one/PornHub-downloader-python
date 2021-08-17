@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-from functions import *
+from pornhub_functions import *
 
 def main():
 
